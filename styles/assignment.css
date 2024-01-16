@@ -122,3 +122,410 @@ cursor: pointer;
 .drop{
     padding-top:50px;
 }
+.sameb{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.samey{
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 577px;
+}
+
+.read{
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 174px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+border: 0px;
+}
+
+.same{
+    color: rgba(19, 19, 24, 0.70);
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+width:525px;
+}
+
+.four{
+    width: 540px;
+height: 550px;
+border-radius: 16px;
+}
+
+.second{
+    max-height: 550px;
+    max-width: 1170px;
+    display: flex;
+    margin-left: 135px;
+    margin-right: 135px;
+    gap:55px;
+    margin-top: 100px;
+}
+
+.choose{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left:300px;
+}
+
+.dolor{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 308px;
+}
+
+.choos{
+    max-width: 1170px;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.maldives{
+background-image: url(../images/Rectangle\ 5.png);
+width: 573px;
+height: 300px;
+border-radius: 16px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.indonesia{
+background-image: url(../images/Rectangle\ 8.png);
+width: 573px;
+height: 300px;
+border-radius: 16px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.mi{
+    margin-left: 135px;
+    margin-right: 135px;
+    display: flex;
+    gap: 20px;
+}
+
+.srilanka{
+background-image: url(../images/Rectangle\ 6.png);
+width: 374px;
+height: 286px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+margin-bottom: 20px;
+margin-top: 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.north{
+background-image: url(../images/Rectangle\ 7.png);
+width: 474px;
+height: 286px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+margin-top: 0px;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.kashmir{
+background-image: url(../images/Rectangle\ 9.png);
+width: 275px;
+height: 286px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+margin-top: 0px;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.snk{
+    margin-left: 135px;
+    margin-right: 135px;
+    display: flex;
+    gap: 20px;
+}
+.bangladesh{
+background-image:url(../images/Rectangle\ 11.png);
+width: 473px;
+height: 300px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+margin-top: 0px;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.bandarban{
+ background-image: url(../images/Rectangle\ 10.png);
+ width: 673px;
+height: 300px;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+margin-top: 0px;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.bb{
+    margin-left: 135px;
+    margin-right: 135px;
+    display: flex;
+    gap: 20px;
+}
+
+.five{
+max-width: 1170px;
+margin-top: 80px;
+margin-left:150px;
+}
+
+.why{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.sit{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.hotel
+{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.amet{
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 486px;
+}
+
+.taghot{
+    width: 64px;
+    height: 64px;
+}
+
+.tagghot{
+    width: 493px;
+    height: 204px;
+    border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+padding: 43px;
+}
+
+.tagmap{
+    width:493px;
+height: 204px;
+border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+padding: 43px;
+}
+
+.map{
+    width: 64px;
+    height: 64px;
+}
+
+.world{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.felis{
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 486px;
+
+}
+
+.twoin{
+    display: flex;
+    gap: 24px;
+    margin-top:50px;
+    margin-left: 132px;
+    margin-right: 132px;
+    max-width: 1170px;
+}
+
+.price{
+    width: 64px;
+    height: 64px;
+}
+
+.best{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.com{
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 486px;
+}
+.tagp{
+    width:493px;
+    height: 204px;    
+border-radius: 16px;
+border: 1px solid rgba(233, 68, 68, 0.20);
+background: rgba(233, 68, 68, 0.05);
+padding: 42px;
+margin-left:433px;
+margin-top: 24px;
+
+}
+.per{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 60px;
+    width:448px;
+}
+
+.sim{
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width:532px;
+}
+
+.onar{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; 
+    width:518px;
+}
+
+.see{
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    width: 174px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+}
