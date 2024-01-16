@@ -528,4 +528,58 @@ margin-top: 24px;
 height: 52px;
 border-radius: 8px;
 background: #FF5400;
+border: none;
+margin-top: 35px;
+}
+
+.fourth{
+    display:flex;
+    gap:40px;
+    margin-top: 100px;
+    margin-left: 132px;
+}
+.our{
+    background-image: url(../images/Group\ 40089.png);
+    width: 610px;
+    height: 424px;
+    border-radius: 16px;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 25px;
+}
+
+.fram{
+    gap: 350px;
+    display: flex;
+}
+
+.ooo{
+    color: black
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+}
+.frfr{
+display: flex;
+position:;
+bottom:10px;
+right:0pcx;
+position:relative;
+}
+.frfrfr{
+display: flex;
+bottom:10px;
+left:0pcx;
+position:absolute;
 }
